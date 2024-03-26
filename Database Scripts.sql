@@ -1,14 +1,14 @@
 --Table creation scripts
 
-USE [Db21032024]
-GO
+--USE [Db21032024]
+--GO
 
 /****** Object:  Table [dbo].[Users]    Script Date: 26/03/2024 11:04:58 PM ******/
-SET ANSI_NULLS ON
-GO
+--SET ANSI_NULLS ON
+--GO
 
-SET QUOTED_IDENTIFIER ON
-GO
+--SET QUOTED_IDENTIFIER ON
+--GO
 
 CREATE TABLE [dbo].[Users](
 	[ID] [int] NOT NULL,
