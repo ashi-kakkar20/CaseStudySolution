@@ -10,8 +10,9 @@ This project is a .NET Core WebAPI for managing top-up transactions in a mobile 
 - **User Authentication**: Provides authentication and authorization mechanisms for users.
 - **Top Up Transactions**: Allows users to initiate and track their top-up transactions.
 - **Transaction History**: Keeps a record of past top-up transactions for each user.
-- **ExternalService- This is used to fetch the balance information for the users
-- **Top UP Test- This has the unit tests for the Top UP API
+- **ExternalService- This is used to fetch the balance information for the users.
+- **Top UP Test- This has the unit tests for the Top UP API.
+- **Database script- This has the database script for all the database objects that are to be created.
 
 ## Prerequisites
 
