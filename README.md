@@ -48,7 +48,7 @@ Before you begin, ensure you have met the following requirements:
     dotnet run
     ```
 
-The API should now be running locally on `https://localhost:5001` by default.
+The API should now be running. You can use swagger to test the same  locally  by default.
 
 
 ## Authentication
