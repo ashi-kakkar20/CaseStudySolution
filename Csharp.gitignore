@@ -1,0 +1,9 @@
+# Ignore bin and obj directories
+bin/
+obj/
+
+# Ignore .suo files
+*.suo
+
+# Ignore .sln files
+*.sln
